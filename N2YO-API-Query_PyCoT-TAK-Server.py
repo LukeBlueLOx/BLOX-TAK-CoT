@@ -1,5 +1,5 @@
-import requests
 import CoT  # https://pypi.org/project/PyCoT
+import requests
 import datetime
 import socket
 import ssl

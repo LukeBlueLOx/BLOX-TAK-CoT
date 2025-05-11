@@ -8,4 +8,13 @@
 
 <hr>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rNxyUIuqn8g?si=eOkpnM0RRVIOkObD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div align="center">  
+<img src="Screenshot_20250510_192103_YouTube.jpg" width="" height=""/>
+
+### ✌♻️🌌🚀🌎🌍🌏🛰🌌♻️✌
+
+https://www.linkedin.com/in/lukebluelox/details/featured
+
+</div>
+
+<hr>

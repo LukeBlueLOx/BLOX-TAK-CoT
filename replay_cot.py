@@ -35,7 +35,7 @@ ssl_context.verify_mode = ssl.CERT_REQUIRED
 LOG_FILE = "/home/luke_blue_lox/PycharmProjects/BLOX-TAK-CoT/cot.log"
 SAT_ID = 6073  # NORAD ID for COSMOS 482 DESCENT CRAFT
 SAT_NAME = "COSMOS 482 DESCENT CRAFT"
-REFRESH_INTERVAL = 10  # Delay between sending CoT messages (in seconds)
+REFRESH_INTERVAL = 1  # Delay between sending CoT messages (in seconds)
 
 def parse_log_for_positions(start_time, end_time):
     """
@@ -82,7 +82,7 @@ def send_cot_to_tak(lat, lon, alt, timestamp):
         stale = timestamp + datetime.timedelta(minutes=5)
         cot_event = CoT.Event(
             version="2.0",
-            type="a-n-G-U-U-S-R-S",
+            type="a-h-G-U-U-S-R-S",  # CoT type: https://github.com/wcrum/py-cot/blob/main/CoT/types.py
             access="Undefined",
             uid=f"SAT.{SAT_ID}",
             time=timestamp,

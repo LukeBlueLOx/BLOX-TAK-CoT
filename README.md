@@ -13,6 +13,8 @@
 
 ### ✌♻️🌌🚀🌎🌍🌏🛰🌌♻️✌
 
+https://youtu.be/rNxyUIuqn8g
+
 https://www.linkedin.com/in/lukebluelox/details/featured
 
 </div>
